@@ -5,12 +5,12 @@
 **CV - English** 
 
 **CV - Portuguese** 
-https://github.com/andregiacomini/CV/blob/master/examples/cv.pdf
+https://github.com/andregiacomini/CV/blob/master/examples/resume-0.png
 
 
 
 
-## Credit
+**Credit for the CV tamplate
 
 [**posquit0**] All credits to him.
 
